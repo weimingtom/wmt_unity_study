@@ -19,3 +19,6 @@ https://github.com/weimingtom/GalGame-1/blob/master/GalGameUnity5/ProjectSetting
 
 ## Unity 2020, Unity-2020.1.6, without MonoDevelop    
 (IMP) work, search Unity-2020.1.6    
+
+## Unity 4.3.2f1    
+search UnitySetup-4.3.2.exe  
