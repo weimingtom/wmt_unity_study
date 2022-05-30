@@ -22,3 +22,8 @@ https://github.com/weimingtom/GalGame-1/blob/master/GalGameUnity5/ProjectSetting
 
 ## Unity 4.3.2f1    
 search UnitySetup-4.3.2.exe  
+
+## SpaceShip-DemoScene-Start.unitypackage  
+https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/downloads/  
+https://github.com/orbitalgames/unity-ui-extensions  
+
