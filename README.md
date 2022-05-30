@@ -26,4 +26,7 @@ search UnitySetup-4.3.2.exe
 ## SpaceShip-DemoScene-Start.unitypackage  
 https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/downloads/  
 https://github.com/orbitalgames/unity-ui-extensions  
+https://github.com/Unity-Technologies/uGUI  
+https://github.com/Pinkuburu/Unity-Technologies-ui  
+
 
