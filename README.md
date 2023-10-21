@@ -34,3 +34,7 @@ https://github.com/Pinkuburu/Unity-Technologies-ui
 百度云网盘  
 Poker.unitypackage  
 
+## ddz, (TODO) 需要补充出牌限制条件和AI出牌的代码，用Android写，可以参考Java PC版代码  
+* itjob_v5_mod_chupai.7z  
+* doudizhu_unity2020_v1.7z  
+* （TODO）待补充上传Java版AI参考代码  
