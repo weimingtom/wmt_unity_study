@@ -37,4 +37,9 @@ Poker.unitypackage
 ## ddz, (TODO) 需要补充出牌限制条件和AI出牌的代码，用Android写，可以参考Java PC版代码  
 * itjob_v5_mod_chupai.7z  
 * doudizhu_unity2020_v1.7z  
-* （TODO）待补充上传Java版AI参考代码  
+* （TODO）待补充上传Java版AI参考代码
+* 恋爱游戏制作大师2安装程序by xxx  
+* Unity4.7.1f1 xxx   
+* 65978手游【闪 xxxx
+* xzp3094997376_gameCard-master.zip  
+* https://github.com/xzp3094997376/gameCard  
