@@ -29,4 +29,8 @@ https://github.com/orbitalgames/unity-ui-extensions
 https://github.com/Unity-Technologies/uGUI  
 https://github.com/Pinkuburu/Unity-Technologies-ui  
 
+## Unity 2017经典游戏开发教程：算法分析与实现.rar  
+斗地主  
+百度云网盘  
+Poker.unitypackage  
 
