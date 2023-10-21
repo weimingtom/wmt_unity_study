@@ -38,7 +38,13 @@ Poker.unitypackage
 * itjob_v5_mod_chupai.7z  
 * doudizhu_unity2020_v1.7z  
 * （TODO）待补充上传Java版AI参考代码
-* 恋爱游戏制作大师2安装程序by xxx  
+* ljheee_PlayCard-master.zip  
+* https://github.com/Hyxmy/doudizhu  
+* https://github.com/ljheee/PlayCard
+* fight-landlord_v1.7z  
+
+## 闪  
+* 恋爱游戏制作大师2安装程序by xxx
 * Unity4.7.1f1 xxx   
 * 65978手游【闪 xxxx
 * xzp3094997376_gameCard-master.zip  
