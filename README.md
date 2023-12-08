@@ -1,6 +1,14 @@
 # wmt_unity_study
 My Unity study
 
+## TODO    
+* unity简单斗地主游戏demo源码.zip  
+* UTAGE3 Unity Text Adventure Game Engine Version3 3.8.1  
+* GalGameDemo_by_sa_源码.rar  
+* 淘宝_unity_2d_galgame  
+* 116.Unity2DGalgame游戏案例（第一季）  
+* https://assetstore.unity.com/packages/3d/characters/humanoids/humans/anime-style-girl-haruka-225055   
+
 ## Unity 案例开发大全 第2版  
 https://www.ptpress.com.cn/shopping/buy?bookId=995319f1-5ee7-414d-bd50-e824ce11ab0c  
 search baidupan  
