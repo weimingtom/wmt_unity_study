@@ -29,6 +29,11 @@ https://github.com/weimingtom/GalGame-1/blob/master/GalGameUnity5/ProjectSetting
 ## Unity 2020, Unity-2020.1.6, without MonoDevelop    
 (IMP) work, search Unity-2020.1.6    
 
+## UnitySetup64-2020.3.48f1, 可导出Linux x86_64版, 可用于steam deck  
+* https://unity.com/ja/releases/editor/whats-new/2020.3.48#notes
+* https://unity.com/ja/releases/editor/archive
+* UnitySetup-Linux-Mono-Support-for-Editor-2020.3.48f1.exe  
+
 ## Unity 4.3.2f1    
 search UnitySetup-4.3.2.exe  
 
