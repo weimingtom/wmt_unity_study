@@ -8,6 +8,7 @@ My Unity study
 * 淘宝_unity_2d_galgame  
 * 116.Unity2DGalgame游戏案例（第一季）  
 * https://assetstore.unity.com/packages/3d/characters/humanoids/humans/anime-style-girl-haruka-225055   
+* (TODO) 移植音游，不过这个是cocos2dx版：https://github.com/ZeroYang/Rhythm   
 
 ## Unity 案例开发大全 第2版  
 https://www.ptpress.com.cn/shopping/buy?bookId=995319f1-5ee7-414d-bd50-e824ce11ab0c  
