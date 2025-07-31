@@ -63,3 +63,6 @@ Poker.unitypackage
 * 65978手游【闪 xxxx
 * xzp3094997376_gameCard-master.zip  
 * https://github.com/xzp3094997376/gameCard  
+
+## GalGame-1
+* https://github.com/weimingtom/GalGame-1
